@@ -9,8 +9,8 @@
 ---
 
 ### **IMPORTANT LINKS (FOR JUDGES)**
-* **WATCH THE DEMO VIDEO:** [YOUR_VIDEO_LINK_GOES_HERE]
-* **LIVE DEPLOYED URL:** [YOUR_VERCEL_LINK_GOES_HERE]
+* **WATCH THE DEMO VIDEO:** (https://drive.google.com/file/d/1A8Onoeq3Cb0MIQVpxR2coT4zMFxzBn6r/view?usp=drivesdk)
+* **LIVE DEPLOYED URL:** (https://nova-qualify.vercel.app/) 
 * **High-Fidelity Prototype PDF:** [(https://github.com/md-abidhussain/NovaQualify/blob/master/prototype1.pdf)]
 ---
 
