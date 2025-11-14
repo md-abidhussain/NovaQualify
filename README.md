@@ -15,7 +15,7 @@
 ---
 
 ## 1. Problem Description
-Businesses spend hours qualifying customer leads manually through calls and emails, which slows sales and causes missed opportunities[cite: 29]. [cite_start]Our project automates this process using conversational AI to save time and improve accuracy.
+Businesses spend hours qualifying customer leads manually through calls and emails, which slows sales and causes missed opportunities.Our project automates this process using conversational AI to save time and improve accuracy.
 
 ## 2. Proposed Solution
 Our project, **NovaQualify**, is a React-based AI assistant that qualifies customer leads instantly using **Agora’s real-time voice and chat**.
@@ -26,8 +26,9 @@ Instead of manual calls, NovaQualify engages prospects in a natural conversation
 We have designed a complete, high-fidelity prototype that demonstrates the full user flow.
 * **[Click to view the Prototype PDF]** (https://github.com/md-abidhussain/NovaQualify/blob/master/prototype1.pdf)
 
-![Customer Widget]([YOUR_SCREENSHOT_LINK_1_GOES_HERE])
-![Sales Dashboard]([YOUR_SCREENSHOT_LINK_2_GOES_HERE])
+![Customer Widget](https://res.cloudinary.com/dqixw5mir/image/upload/v1763160178/W1_atxqal.jpg)
+![Sales Dashboard](https://res.cloudinary.com/dqixw5mir/image/upload/v1763160286/SD_qq9lqd.jpg)
+![UI](https://res.cloudinary.com/dqixw5mir/image/upload/v1763160015/Screenshot_2025-11-15_030311_epsit3.png)
 
 ## 4. Tech Stack
 * **Frontend:** React 
